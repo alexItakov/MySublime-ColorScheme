@@ -10,7 +10,7 @@ During the time of transmittal favorite editor, more I wanted to make it more co
 ***
 
 
-##Sineva 
+## Sineva 
 
 Scheme with some marine abstract.   //Расцветка с некоторыми морскими мотивами 
 ![](https://github.com/alexItakov/MySublime-ColorScheme/blob/master/Sineva.png)
